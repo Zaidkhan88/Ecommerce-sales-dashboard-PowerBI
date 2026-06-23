@@ -100,10 +100,6 @@ The dashboard enables business users to monitor key performance indicators (KPIs
 
 ---
 
-## Author
 
-**Zayed Khan**
-
-Aspiring Data Analyst | SQL | Python | Power BI | Machine Learning
 
 GitHub: [Add Your GitHub Profile Link]
