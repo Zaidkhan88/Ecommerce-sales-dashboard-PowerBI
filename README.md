@@ -6,9 +6,8 @@ This project presents an interactive Power BI dashboard developed to analyze e-c
 
 The dashboard enables business users to monitor key performance indicators (KPIs) and gain actionable insights for data-driven decision-making.
 
+
 ---
-
-
 
 ## Business Objectives
 
@@ -90,16 +89,6 @@ The dashboard enables business users to monitor key performance indicators (KPIs
 - Power BI Reporting
 - DAX Calculations
 
----
 
-## Files Included
-
-- `Ecommerce_Dashboard.pbix` – Power BI dashboard file
 - `dashboard.png` – Dashboard screenshot
 - `README.md` – Project documentation
-
----
-
-
-
-GitHub: [Add Your GitHub Profile Link]
